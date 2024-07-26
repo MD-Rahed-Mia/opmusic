@@ -1,0 +1,138 @@
+[
+  {
+    "id": "1",
+    "title": "kabhi kabhi aditi jindegi",
+    "artist": "AR Rahman",
+    "type": "mp3",
+    "genre": "song",
+    "path": "/audio/kabhi_kabhi_aditi.mp3"
+  },
+  {
+    "id": "2",
+    "title": "mayabi choker kone",
+    "artist": "Blue touch",
+    "type": "mp3",
+    "genre": "song",
+    "path": "/audio/song2.mp3"
+  },
+  {
+    "id": "3",
+    "title": "tumi arekbar asiya",
+    "artist": "rothindra nath roy",
+    "type": "mp3",
+    "genre": "song",
+    "path": "/audio/song3.mp3"
+  },
+  {
+    "id": "4",
+    "title": "Luis Fonsi - Despacito ft. ",
+    "artist": "Daddy Yankee",
+    "type": "mp3",
+    "genre": "song",
+    "path": "/audio/song5_despacito.mp3"
+  },
+  {
+    "id": "5",
+    "title": "zoom zoom",
+    "artist": "minar mahmud",
+    "type": "webm",
+    "genre": "song",
+    "path": "/audio/song4_zoom.webm"
+  },
+  {
+    "id": "6",
+    "title": "faded",
+    "artist": "alan walker",
+    "type": "mp3",
+    "genre": "english",
+    "path": "/audio/Alan-Walker-Faded_2.mp3"
+  },
+  {
+    "id": "7",
+    "title": "The spectre",
+    "artist": "alan walker",
+    "type": "mp3",
+    "genre": "english",
+    "path": "/audio/Alan-Walker-The-Spectre_3.mp3"
+  },
+  {
+    "id": "8",
+    "title": "let me down slowly",
+    "artist": "alec benjamin",
+    "type": "mp3",
+    "genre": "english",
+    "path": "/audio/Alec-Benjamin-Let-Me-Down-Slowly-Live-fr_9.mp3"
+  },
+  {
+    "id": "9",
+    "title": "Believer",
+    "artist": "imagine dragons",
+    "type": "mp3",
+    "genre": "english",
+    "path": "/audio/Imagine-Dragons-Believer-Official-Music-_5.mp3"
+  },
+  {
+    "id": "10",
+    "title": "bones",
+    "artist": "imagine dragons",
+    "type": "mp3",
+    "genre": "english",
+    "path": "/audio/Imagine-Dragons-Bones-Official-Music-Vid_6.mp3"
+  },
+  {
+    "id": "11",
+    "title": "wavin flag coca cola",
+    "artist": "K Naan",
+    "type": "mp3",
+    "genre": "english",
+    "path": "/audio/K-NAAN-Wavin-Flag-Coca-Cola-Celebration-_11.mp3"
+  },
+  {
+    "id": "12",
+    "title": "nirobe nibrite",
+    "artist": "james(legend)",
+    "type": "mp3",
+    "genre": "bangla",
+    "path": "/audio/nirobe_by_james.mp3"
+  },
+  {
+    "id": "13",
+    "title": "all bida",
+    "artist": "james(legend)",
+    "type": "mp3",
+    "genre": "bangla",
+    "path": "/audio/Pritam-James-Alvida-Full-Song-Video-_14.mp3"
+  },
+  {
+    "id": "14",
+    "title": "sei tumi kn",
+    "artist": "Aiub bacchu(legend)",
+    "type": "mp3",
+    "genre": "bangla",
+    "path": "/audio/SHEI-TUMI-AYUB-BACHCHU-with-TAPOSH-WIND-_13.mp3"
+  },
+  {
+    "id": "15",
+    "title": "twenty one pilotes",
+    "artist": "twenty one pilotes",
+    "type": "mp3",
+    "genre": "english",
+    "path": "/audio/twenty-one-pilots-Ride-Official-Video-_8.mp3"
+  },
+  {
+    "id": "16",
+    "title": "kiser ato dukkho tomar",
+    "artist": "james(legend)",
+    "type": "mp3",
+    "genre": "bangla",
+    "path": "/audio/kiser_ato_dukkho.mp3"
+  },
+  {
+    "id": "17",
+    "title": "sharks",
+    "artist": "imagine dragons",
+    "type": "mp3",
+    "genre": "english",
+    "path": "/audio/Imagine-Dragons-Sharks-Official-Music-Vi_7.mp3"
+  }
+]
